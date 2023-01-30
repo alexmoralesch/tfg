@@ -1,0 +1,68 @@
+King Kong	Named_Entity
+dulce tipico	Common_Term
+Gastronomia	Common_Term
+Gastronomia del Peru	Specific_Term
+zona norte	Common_Term
+región de Lambayeque	Specific_Term
+galletas	Common_Term
+galletas hechas de harina	Common_Term
+mantequilla	Common_Term
+yemas de huevo	Common_Term
+manjar blanco	Common_Term
+dulce de piña	Common_Term
+dulce de mani	Specific_Term
+galleta	Common_Term
+presentaciones	Common_Term
+un kilo	Common_Term
+pequeñas porciones individuales	Common_Term
+historia	Common_Term
+epoca	Common_Term
+años 30	Common_Term
+siglo XX	Common_Term
+ciudad	Common_Term
+famosa pelicula del gorila King Kong	Specific_Term
+picardia popular	Common_Term
+molde	Common_Term
+tamaño del alfajor	Common_Term
+figura	Common_Term
+gran gorila	Common_Term
+King Kong	Named_Entity
+fabricas	Common_Term
+produccion de este dulce	Common_Term
+antiguas y conocidas	Common_Term
+San Roque	Specific_Term
+Lambayeque	Specific_Term
+fabrica de dulces	Common_Term
+Huerequeque	Specific_Term
+Evocadora	Common_Term
+Tumbas Reales	Common_Term
+fagot	Specific_Term
+instrumento musical de viento-madera	Common_Term
+doble lengueta	Common_Term
+primo del oboe	Common_Term
+heckelfono	Common_Term
+textura similar	Common_Term
+rango del oboe	Common_Term
+instrumentos muy emparentados	Common_Term
+tesitura	Common_Term
+3 octavas y media	Common_Term
+4 registros	Common_Term
+grave	Common_Term
+medio	Common_Term
+agudo	Common_Term
+sobre agudo	Common_Term
+altura de 156 cm	Common_Term
+longitud total del taladro	Common_Term
+250 cm	Common_Term
+necesidad musical	Common_Term
+ampliar la region grave	Common_Term
+sonido	Common_Term
+instrumentos de viento	Common_Term
+campana	Common_Term
+culata	Common_Term
+2 cuerpos	Common_Term
+tudel	Specific_Term
+caña	Specific_Term
+aire	Specific_Term
+cuerpo chico	Common_Term
+cuerpo grande	Common_Term
